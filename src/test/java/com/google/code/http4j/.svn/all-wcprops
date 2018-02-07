@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/598/trunk/http4j/src/test/java/com/google/code/http4j
+END
+DNSTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/566/trunk/http4j/src/test/java/com/google/code/http4j/DNSTestCase.java
+END
+RequestExecutorTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/501/trunk/http4j/src/test/java/com/google/code/http4j/RequestExecutorTestCase.java
+END
+HeaderTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/598/trunk/http4j/src/test/java/com/google/code/http4j/HeaderTestCase.java
+END
+RequestTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/536/trunk/http4j/src/test/java/com/google/code/http4j/RequestTestCase.java
+END
+ConnectionManagerTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/598/trunk/http4j/src/test/java/com/google/code/http4j/ConnectionManagerTestCase.java
+END
+StatusLineTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/598/trunk/http4j/src/test/java/com/google/code/http4j/StatusLineTestCase.java
+END
+HeadersTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/561/trunk/http4j/src/test/java/com/google/code/http4j/HeadersTestCase.java
+END
+CookieCacheTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/598/trunk/http4j/src/test/java/com/google/code/http4j/CookieCacheTestCase.java
+END
+HostTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/598/trunk/http4j/src/test/java/com/google/code/http4j/HostTestCase.java
+END
+ClientTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/591/trunk/http4j/src/test/java/com/google/code/http4j/ClientTestCase.java
+END
+ConnectionTestCase.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/598/trunk/http4j/src/test/java/com/google/code/http4j/ConnectionTestCase.java
+END

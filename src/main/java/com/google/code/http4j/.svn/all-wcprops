@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/600/trunk/http4j/src/main/java/com/google/code/http4j
+END
+Message.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/536/trunk/http4j/src/main/java/com/google/code/http4j/Message.java
+END
+DNS.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/566/trunk/http4j/src/main/java/com/google/code/http4j/DNS.java
+END
+Request.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/536/trunk/http4j/src/main/java/com/google/code/http4j/Request.java
+END
+Header.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/459/trunk/http4j/src/main/java/com/google/code/http4j/Header.java
+END
+Charset.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/459/trunk/http4j/src/main/java/com/google/code/http4j/Charset.java
+END
+ConnectionManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/493/trunk/http4j/src/main/java/com/google/code/http4j/ConnectionManager.java
+END
+StatusLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/567/trunk/http4j/src/main/java/com/google/code/http4j/StatusLine.java
+END
+Parser.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/459/trunk/http4j/src/main/java/com/google/code/http4j/Parser.java
+END
+CookieCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/459/trunk/http4j/src/main/java/com/google/code/http4j/CookieCache.java
+END
+Response.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/567/trunk/http4j/src/main/java/com/google/code/http4j/Response.java
+END
+Connection.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/459/trunk/http4j/src/main/java/com/google/code/http4j/Connection.java
+END
+RequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/459/trunk/http4j/src/main/java/com/google/code/http4j/RequestExecutor.java
+END
+Headers.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/576/trunk/http4j/src/main/java/com/google/code/http4j/Headers.java
+END
+Host.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/545/trunk/http4j/src/main/java/com/google/code/http4j/Host.java
+END
+Client.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/590/trunk/http4j/src/main/java/com/google/code/http4j/Client.java
+END
+HTTP.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/561/trunk/http4j/src/main/java/com/google/code/http4j/HTTP.java
+END

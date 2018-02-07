@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/599/trunk/http4j/src/main/java/com/google/code/http4j/utils
+END
+Counter.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/496/trunk/http4j/src/main/java/com/google/code/http4j/utils/Counter.java
+END
+LongCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/496/trunk/http4j/src/main/java/com/google/code/http4j/utils/LongCounter.java
+END
+ThreadLocalMetricsRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/591/trunk/http4j/src/main/java/com/google/code/http4j/utils/ThreadLocalMetricsRecorder.java
+END
+Timer.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/496/trunk/http4j/src/main/java/com/google/code/http4j/utils/Timer.java
+END
+Metrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/591/trunk/http4j/src/main/java/com/google/code/http4j/utils/Metrics.java
+END
+NanoSecondTimer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/496/trunk/http4j/src/main/java/com/google/code/http4j/utils/NanoSecondTimer.java
+END
+BasicMetrics.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/592/trunk/http4j/src/main/java/com/google/code/http4j/utils/BasicMetrics.java
+END
+IOUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/599/trunk/http4j/src/main/java/com/google/code/http4j/utils/IOUtils.java
+END
+IntCounter.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/496/trunk/http4j/src/main/java/com/google/code/http4j/utils/IntCounter.java
+END
+MetricsRecorder.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/591/trunk/http4j/src/main/java/com/google/code/http4j/utils/MetricsRecorder.java
+END

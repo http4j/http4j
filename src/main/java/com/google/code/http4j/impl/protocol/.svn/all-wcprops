@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/545/trunk/http4j/src/main/java/com/google/code/http4j/impl/protocol
+END
+HttpProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/545/trunk/http4j/src/main/java/com/google/code/http4j/impl/protocol/HttpProtocol.java
+END
+Protocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/545/trunk/http4j/src/main/java/com/google/code/http4j/impl/protocol/Protocol.java
+END
+HttpsProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/545/trunk/http4j/src/main/java/com/google/code/http4j/impl/protocol/HttpsProtocol.java
+END
+AbstractProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/545/trunk/http4j/src/main/java/com/google/code/http4j/impl/protocol/AbstractProtocol.java
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/600/trunk/http4j/src/main/java/com/google/code/http4j/impl
+END
+AbstractResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/600/trunk/http4j/src/main/java/com/google/code/http4j/impl/AbstractResponse.java
+END
+Post.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/598/trunk/http4j/src/main/java/com/google/code/http4j/impl/Post.java
+END
+CookieStoreAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/598/trunk/http4j/src/main/java/com/google/code/http4j/impl/CookieStoreAdapter.java
+END
+StatusLineParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/598/trunk/http4j/src/main/java/com/google/code/http4j/impl/StatusLineParser.java
+END
+IdentityResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/593/trunk/http4j/src/main/java/com/google/code/http4j/impl/IdentityResponse.java
+END
+HeadersParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/459/trunk/http4j/src/main/java/com/google/code/http4j/impl/HeadersParser.java
+END
+BasicRequestExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/536/trunk/http4j/src/main/java/com/google/code/http4j/impl/BasicRequestExecutor.java
+END
+ResponseParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/505/trunk/http4j/src/main/java/com/google/code/http4j/impl/ResponseParser.java
+END
+AbstractRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/598/trunk/http4j/src/main/java/com/google/code/http4j/impl/AbstractRequest.java
+END
+BasicHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/545/trunk/http4j/src/main/java/com/google/code/http4j/impl/BasicHost.java
+END
+Get.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/598/trunk/http4j/src/main/java/com/google/code/http4j/impl/Get.java
+END
+CanonicalHeader.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/504/trunk/http4j/src/main/java/com/google/code/http4j/impl/CanonicalHeader.java
+END
+ChunkedResponse.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/534/trunk/http4j/src/main/java/com/google/code/http4j/impl/ChunkedResponse.java
+END
+BasicClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/590/trunk/http4j/src/main/java/com/google/code/http4j/impl/BasicClient.java
+END
